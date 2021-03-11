@@ -34,6 +34,6 @@ requests-toolbelt==0.7.0
 rsa==4.7
 six==1.15.0
 virtualenv==20.4.2
-Werkzeug==0.14.1
+Werkzeug==0.15.3
 zope.event==4.5.0
 zope.interface==5.2.0
